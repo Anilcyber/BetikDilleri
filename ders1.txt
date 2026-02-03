@@ -1,0 +1,17 @@
+import random
+#Anıl Şentürk
+
+print("anilsenturk");
+r = random.random();
+print(r)
+
+if r < 0.5:
+    print("Ders Serbest Yazı");
+else:
+    print("Ders İşleniyor Tura");
+#if(random.randint(0,1)):
+#    print("Ders Serbest Yazı Geldi")
+
+#else:
+ #   print("Ders iptal Tura Geldi")
+#
